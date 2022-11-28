@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte D/secuencia_luces.smf
+source_file = 1, C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte D/secuencia_luces.vhd
+source_file = 1, C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte D/db/Lab2_D.cbx.xml
+source_file = 1, d:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, d:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, d:/altera/13.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, d:/altera/13.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = secuencia_luces
+instance = comp, \reset~input\, reset~input, secuencia_luces, 1
+instance = comp, \x~input\, x~input, secuencia_luces, 1
+instance = comp, \clock~input\, clock~input, secuencia_luces, 1

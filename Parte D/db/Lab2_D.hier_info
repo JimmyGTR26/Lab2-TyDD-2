@@ -1,0 +1,15 @@
+|secuencia_luces
+reset => reg_fstate.E1.OUTPUTSELECT
+reset => reg_fstate.E2.OUTPUTSELECT
+reset => reg_fstate.E3.OUTPUTSELECT
+reset => reg_fstate.E4.OUTPUTSELECT
+reset => reg_fstate.E5.OUTPUTSELECT
+reset => reg_fstate.E6.OUTPUTSELECT
+reset => reg_fstate.E7.OUTPUTSELECT
+clock => fstate~1.DATAIN
+x => reg_fstate.DATAB
+x => reg_fstate.DATAB
+x => reg_fstate.DATAB
+x => reg_fstate.DATAB
+
+

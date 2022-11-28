@@ -1,0 +1,6 @@
+|ParteA
+sw1 => LED.IN0
+sw2 => LED.IN1
+LED << LED.DB_MAX_OUTPUT_PORT_TYPE
+
+

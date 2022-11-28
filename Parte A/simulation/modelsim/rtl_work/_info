@@ -1,0 +1,75 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Asus\Desktop\Laboratorio 2 TyDD2\proyecto\Parte A\simulation\modelsim
+Epartea
+Z1 w1669581820
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Asus\Desktop\Laboratorio 2 TyDD2\proyecto\Parte A\simulation\modelsim
+Z5 8C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/ParteA.vhd
+Z6 FC:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/ParteA.vhd
+l0
+L4
+VD9jd?zm_C;M22N?[cf5<b2
+Z7 OV;C;10.1d;51
+31
+Z8 !s108 1669658906.088000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/ParteA.vhd|
+Z10 !s107 C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/ParteA.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+!s100 hVZ=OLPMcQWIZB5HKgiWP3
+!i10b 1
+Abehavioral
+R2
+R3
+DEx4 work 6 partea 0 22 D9jd?zm_C;M22N?[cf5<b2
+l13
+L10
+V_;893nQ=?;H;58SXYzdN[1
+R7
+31
+R8
+R9
+R10
+R11
+R12
+!s100 LN_NYc6ez5>iTn@dREPZG2
+!i10b 1
+Epartea_testbench
+Z13 w1669582370
+R2
+R3
+R4
+Z14 8C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/ParteA_testbench.vhd
+Z15 FC:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/ParteA_testbench.vhd
+l0
+L4
+VJDah0aXW:8>dN6cVeEbBn2
+!s100 _cbX:@C`fb1YTjX=>m[WR1
+R7
+31
+!i10b 1
+Z16 !s108 1669658906.171000
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/ParteA_testbench.vhd|
+Z18 !s107 C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/ParteA_testbench.vhd|
+R11
+R12
+Abehavior
+R2
+R3
+DEx4 work 16 partea_testbench 0 22 JDah0aXW:8>dN6cVeEbBn2
+l23
+L7
+VQj<]Pf?>5jPhDKNJL`7=J1
+!s100 cGaQ;KK5f0O_i9W;fmaFl3
+R7
+31
+!i10b 1
+R16
+R17
+R18
+R11
+R12

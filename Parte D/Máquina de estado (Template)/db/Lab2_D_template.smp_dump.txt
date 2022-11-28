@@ -1,0 +1,9 @@
+
+State Machine - |electronic_dice|state
+Name state.state_bit_2 state.state_bit_1 state.state_bit_0 
+state.s1 0 0 0 
+state.s2 1 0 0 
+state.s3 1 1 0 
+state.s4 1 1 1 
+state.s5 0 1 1 
+state.s6 0 0 1 

@@ -1,0 +1,10 @@
+
+State Machine - |secuencia_luces|fstate
+Name fstate.state_bit_2 fstate.state_bit_1 fstate.state_bit_0 
+fstate.E1 0 0 0 
+fstate.E2 0 0 1 
+fstate.E3 0 1 1 
+fstate.E4 0 1 0 
+fstate.E5 1 1 0 
+fstate.E6 1 1 1 
+fstate.E7 1 0 1 

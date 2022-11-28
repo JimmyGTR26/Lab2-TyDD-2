@@ -1,0 +1,40 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Asus\Desktop\Laboratorio 2 TyDD2\proyecto\Parte D\Máquina de estado (Template)\simulation\modelsim
+Eelectronic_dice
+Z1 w1669659592
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\Asus\Desktop\Laboratorio 2 TyDD2\proyecto\Parte D\Máquina de estado (Template)\simulation\modelsim
+Z5 8C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte D/Máquina de estado (Template)/electronic_dice.vhd
+Z6 FC:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte D/Máquina de estado (Template)/electronic_dice.vhd
+l0
+L11
+VSXb_ITS[DEEE6UQNAE`4c0
+!s100 j5]co1?h;nFnPD;XCEKFD3
+Z7 OV;C;10.1d;51
+31
+!i10b 1
+Z8 !s108 1669659924.571000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte D/Máquina de estado (Template)/electronic_dice.vhd|
+Z10 !s107 C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte D/Máquina de estado (Template)/electronic_dice.vhd|
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Artl
+R2
+R3
+DEx4 work 15 electronic_dice 0 22 SXb_ITS[DEEE6UQNAE`4c0
+l30
+L22
+VN:m>1IQSFG<aMBlROiMV;1
+!s100 AcRkQRdY;_:TPBEg3E:4J1
+R7
+31
+!i10b 1
+R8
+R9
+R10
+R11
+R12

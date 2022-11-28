@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/ParteA.vhd
+source_file = 1, C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/ParteA.vwf
+source_file = 1, C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/ParteA_testbench.vhd
+source_file = 1, C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/Block1.bdf
+source_file = 1, C:/Users/Asus/Desktop/Laboratorio 2 TyDD2/proyecto/Parte A/db/Lab2_A.cbx.xml
+source_file = 1, d:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_b.vhd
+source_file = 1, d:/altera/13.1/quartus/libraries/vhdl/ieee/prmtvs_p.vhd
+source_file = 1, d:/altera/13.1/quartus/libraries/vhdl/ieee/timing_b.vhd
+source_file = 1, d:/altera/13.1/quartus/libraries/vhdl/ieee/timing_p.vhd
+design_name = ParteA
+instance = comp, \LED~output\, LED~output, ParteA, 1
+instance = comp, \sw2~input\, sw2~input, ParteA, 1
+instance = comp, \sw1~input\, sw1~input, ParteA, 1
+instance = comp, \LED~0\, LED~0, ParteA, 1

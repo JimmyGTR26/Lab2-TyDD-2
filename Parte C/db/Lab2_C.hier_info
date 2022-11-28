@@ -1,0 +1,13 @@
+|FA_4B
+o_cout <= inst9.DB_MAX_OUTPUT_PORT_TYPE
+clk => inst9.CLK
+clk => inst2.CLK
+clk => inst1.CLK
+clk => inst.CLK
+clk => inst8.CLK
+in_a => inst2.DATAIN
+in_b => inst1.DATAIN
+in_cin => inst.DATAIN
+o_f <= inst8.DB_MAX_OUTPUT_PORT_TYPE
+
+
